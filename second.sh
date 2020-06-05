@@ -6,7 +6,8 @@
 echo "Hi there!"
 
 #prints the argument when running the script
-echo "It's good to see you $1."
+echo "It's good to see you, $1."
+echo "Hope you are doing great!"
 
 read -t 10 -p "Let's pause for 10 seconds ..."
 
